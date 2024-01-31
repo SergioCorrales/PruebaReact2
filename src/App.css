@@ -1,0 +1,18 @@
+.custom-color{
+    background-color: rgb(80, 221, 237);
+}
+
+/* CustomNavbar.css */
+
+.banner-container {
+    width: 100%;
+    max-width: 100vw;
+    overflow: hidden;
+    padding: 0;
+  }
+  
+  .banner-image {
+    width: 100%;
+    height: auto;
+    max-height: 200px; /* Ajusta la altura según tu preferencia */
+  }
